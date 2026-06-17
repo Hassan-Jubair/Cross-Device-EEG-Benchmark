@@ -5,7 +5,7 @@ This repository provides the code for evaluating cross-hardware generalization i
 
 ## Dataset Access
 The fully harmonized and aligned dataset is publicly available on Zenodo.
-* Download the dataset here: [Insert Zenodo DOI Link Here]
+* Download the dataset here: dx.doi.org/10.5281/zenodo.20727886
 * Place the downloaded `cross_device_eeg_aligned_FINAL.npz` file in your working directory, or update the file path inside the evaluation script.
 
 ## Required Libraries
