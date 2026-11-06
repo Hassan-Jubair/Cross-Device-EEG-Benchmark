@@ -2,7 +2,7 @@
 
 Official code, unit tests, and statistical reproduction repository for the manuscript:
 > **Signal-Space Spatial Harmonization and Streaming Covariance Alignment for Calibration-Free Cross-Dataset Motor Imagery BCIs**  
-> Hassan Jubair (Department of Biomedical Engineering, KUET & HR Institute, Bangladesh)
+> Hassan Jubair
 
 ---
 
